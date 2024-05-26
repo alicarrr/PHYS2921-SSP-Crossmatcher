@@ -3,4 +3,6 @@
 All code for PHYS2921 SPP Project by Alison Carr, Brian Tjahjadi and Mary Williams. 
 This was supervised by Tara Murphy in Semester 1 of 2024 at the University of Sydney (USYD).
 
-'Final_crossmatcher' contains the results of the crossmatching code although the 'crossmatcher' folder contains the algorithm. This code aims to crossmatch the NASA Exoplanet Archive to the CASDA database of radio detection to find exoplanet candidates.
+'crossmatcher_results' contains the results of the crossmatching code although the 'Final_crossmatcher' folder contains the algorithm. This code aims to crossmatch the NASA Exoplanet Archive to the CASDA database of radio detection to find exoplanet candidates.
+
+All results can be obtained by running the main.py file although this takes a long time to run and has a large number of files downloaded.
